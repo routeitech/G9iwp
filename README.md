@@ -168,7 +168,7 @@ sample/
 ---
 
 ## 版本與系統需求
-
+- **版本**：`1.0.5-demo`
 - **作業系統**：Windows 10 22H2 或 Windows 11
 - **.NET Runtime**：已內含（self-contained 單檔發佈），無需另外安裝
 - **版本歷程**：更新記錄請見 GitHub Releases 頁面
